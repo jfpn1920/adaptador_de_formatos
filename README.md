@@ -1,0 +1,1 @@
+# adaptador_de_formatos
